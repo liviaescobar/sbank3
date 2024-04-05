@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Krub:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+body {
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 40px;
+    width: 93.75vw;
+    height: 11vh;
+}
+
+.logo img {
+    width:9.500vw;
+    height:13vh;
+    padding: 40px;
+    padding-top: 60px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+    font-family: "Krub",sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    cursor: pointer;
+    color: #4C5270;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+.botao_redessociais button {
+    cursor: pointer;
+    border: none;
+    background-color: white;
+}
+
+body {
+    font-family: "Krub",sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    display: flex;
+    align-items: center;
+    padding: 80px;
+    font-family: "Krona One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #4C5270;
+    justify-content: space-between;
+  }
+  
+  .texto {
+    padding: 40px;
+  }
+  
+  h2{
+    font-size: 60px;
+  }
+
+  .texto1{
+    font-size: 40;
+  }
